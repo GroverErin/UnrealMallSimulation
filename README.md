@@ -113,7 +113,7 @@ As shown in Figure 5, Frustration will be modeled with a logistics curve, simila
 
 ### Action Utility Scores
 <p align="center">
-  <img src="https://github.com/GroverErin/UnrealMallSimulation/blob/main/Images/ActionChoiceExample.png?raw=true" alt="Action Choice Example"/>
+  <img src="https://github.com/GroverErin/UnrealMallSimulation/blob/main/Images/ActionChoiceExample.jpg?raw=true" alt="Action Choice Example"/>
 </p>
 Due to the designer’s request being that of a simple simulation, how an action can be scored will be made simple and designer friendly: A score will be given to an action based on how well it will fulfill the trait it belongs to.
 
